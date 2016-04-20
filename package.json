@@ -42,7 +42,10 @@
     "protractor": "^3.2.2",
     "rimraf": "^2.5.2",
     "typescript": "^1.8.10",
-    "typings":"^0.7.12"
+    "typings":"^0.7.12",
+    "gulp": "3.9.1",
+    "gulp-sourcemaps": "2.0.0-alpha",
+    "del": "2.2.0"
   },
   "repository": {  }
 }
